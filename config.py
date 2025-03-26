@@ -1,0 +1,1 @@
+# Stocke les identifiants, URI, etc.
